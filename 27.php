@@ -23,4 +23,4 @@ function make_table ($col, $row, $array_of_colors){
 }
 
 
-make_table(2,3,$colors);
+make_table(rand(0,10),rand(0,10),$colors);
